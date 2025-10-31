@@ -1,0 +1,12 @@
+livekit-api
+livekit-agents[openai,silero,deepgram,cartesia,turn-detector,google]
+python-dotenv
+fastapi
+uvicorn
+langfuse
+Pillow
+google-generativeai
+python-multipart
+ultralytics
+opencv-python
+numpy
